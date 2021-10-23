@@ -5,5 +5,5 @@ extract = (text) => {
     .trimEnd()
 }
 
-console.log(extract('Peter Hello Thank you world Pan'))
+console.log(extract('Hello 1 world'))
 console.log(extract('Peter Hello Thank you world Pan'))
